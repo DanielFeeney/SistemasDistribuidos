@@ -26,7 +26,7 @@ public class Exercicio2 implements Runnable{
     }
 	
 	public static void main(String[] args) throws InterruptedException {
-		System.out.println("Inicializando a matriz!!");
+		System.out.println("Inicializando o vetor!!");
 		
 		Exercicio2 ex02 = new Exercicio2();
 		
